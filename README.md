@@ -41,6 +41,25 @@
     - Real/Float/Decimals
     - Characters
     - Strings
+   
+## Function application 
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/ea612cc1-faed-4044-9078-c49877521d5a)
+
+## Currying 
+
+- All functions in Haskell are curried. This means that function that takes multiple parameteres is actually a sequence of single parameter functions.S
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/9acc3075-3e24-4be9-94ba-aaf807471603)
+
+- This is a function that takes a number that returns a function that takes a number and returns the sum of the two numbers.
+
+## Partial application of functions
+
+- Curring is related to the partial application of functions. Partial application of a function occurs when a function is called with fewer than the total number of parameters.
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/c27bb4e9-c711-4b45-b00a-b6bc0235773c)
+
 
 
 
