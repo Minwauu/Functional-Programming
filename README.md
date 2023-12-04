@@ -60,6 +60,18 @@
 
 ![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/c27bb4e9-c711-4b45-b00a-b6bc0235773c)
 
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/e1eabfb8-7a59-47db-a88e-410610ab2145)
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/fd350de5-4a3b-4374-893d-24af94cea0f2)
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/1fa547ba-8f81-4b3f-b131-75c0a4218043)
+
+
+
+
+
+
+
 
 
 
