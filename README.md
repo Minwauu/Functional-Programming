@@ -67,6 +67,82 @@
 ![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/1fa547ba-8f81-4b3f-b131-75c0a4218043)
 
 
+## Haskell 
+
+### List processing 
+
+- As with all languages, Haskell comes with a range of standard library functions, some of which we will introduce below.
+
+- The *head* funcion returns the first element in a list:
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/8155288d-f887-4c9f-a55f-23c33c940702)
+
+- Conversely, *tail* returns all but the first element in a list:
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/43de337e-cbc3-4d47-8391-922584c18589)
+
+Return an element from the list (starting from 0)
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/3b6c6029-012d-48f8-ab3b-6e8e488b65bb)
+
+Select the first number of elements from a list:
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/1afca90b-72f1-40b1-b2e1-454872761b78)
+
+Remove the first number of elements from a list
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/3979805e-4224-4af3-aa25-ec9cc02fbd6f)
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/f642c90a-553a-4928-aff4-2009597ba596) !
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/4a4868c4-a7d3-433c-85b6-c8ca4c23d9cd)
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/f5bb20d1-a01c-4e6b-a48a-25f1e23efe5c)
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/4e14b5f0-6cbb-48ce-9a8a-93ca16502ed5)
+
+### Writing programs
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/2baa29e7-b9dd-43fc-adb8-bc548891f76d)
+
+### Higher order functions
+
+- Higher-order functions are functions that can take a function as an argument and/or return a function as a result. The higher order functions that we need to know about are:
+  - map
+  - filter
+  - fold
+
+### Map
+
+- Map applies a function to each element of a list and returns the results in a list. It works by applying the function to the head of the list and makes recursive calls to each element in the tail.
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/5fab2441-e258-4ff4-9d34-f728021a7443)
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/deacc176-d31c-40f5-80f7-adebd6865cbc)
+
+### Filter
+
+- Filter applies a function to a list to select items from a list:
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/15ba6972-85a2-4cf5-abc1-d43c62b9a0a2)
+
+### Fold
+
+![image](https://github.com/Minwauu/Functional-Programming/assets/110039102/41e26c1e-6abd-4214-9756-dee5915aaec5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
